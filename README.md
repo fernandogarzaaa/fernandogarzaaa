@@ -36,7 +36,7 @@ The goal is software that can run locally, expose clear tool surfaces, and stay 
 
 ## 📦 PyPI
 
-Package: [`chimeralang`](https://pypi.org/project/chimeralang/)
+Packages: [`chimeralang`](https://pypi.org/project/chimeralang/) · [`chimeralang-mcp`](https://pypi.org/project/chimeralang-mcp/)
 
 ## 🔗 Key Repos
 
